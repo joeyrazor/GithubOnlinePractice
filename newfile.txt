@@ -1,2 +1,3 @@
 hello github
 Here I am with my first repo
+how u doing
